@@ -11,6 +11,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Details
--  🔭 Estou cursando o Full-Stack da B7Web 
+- 🎓 Estou cursando tecnólogo Análise e Desenvolvimento de Sistemas na Unicid
+- 🔭 Também estou cursando o Desenvolvimento Web Full Stack da B7Web 
 - 🌱 Atualmente estudo PHP
 - 📫 Meu contato: www.linkedin.com/in/leonardo-meerr-ferreira-253381217
