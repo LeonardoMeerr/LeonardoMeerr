@@ -8,10 +8,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GIT/GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Details
 - 🎓 Estou cursando tecnólogo Análise e Desenvolvimento de Sistemas na Unicid
 - 🔭 Também estou cursando o Desenvolvimento Web Full Stack da B7Web 
-- 🌱 Atualmente estudo PHP
 - 📫 Meu contato: www.linkedin.com/in/leonardo-meerr-ferreira-253381217
